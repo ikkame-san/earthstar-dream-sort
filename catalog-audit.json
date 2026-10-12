@@ -6,9 +6,7 @@
     "songs": [
       "Bonjour, The World!!",
       "レゾンデートル、前線より",
-      "Be a Hero!",
-      "Catch Our Fire!",
-      "廻る季節のゆく先に"
+      "Be a Hero!"
     ],
     "videoMetadataChecked": 2
   },
@@ -797,14 +795,14 @@
     {
       "title": "Catch Our Fire!",
       "source": "https://p.eagate.573.jp/game/kac/kac8th/music/index.html",
-      "status": "included",
-      "songId": "s-8d8b713c568d23b3"
+      "status": "excluded",
+      "reason": "ソロ曲は2017年以前の曲のみ。2018年以降のため対象外"
     },
     {
       "title": "廻る季節のゆく先に",
       "source": "https://p.eagate.573.jp/game/bemani/fansite/p/music/201902/",
-      "status": "included",
-      "songId": "s-a79f6602f056fc2f"
+      "status": "excluded",
+      "reason": "ソロ曲は2017年以前の曲のみ。2018年以降のため対象外"
     },
     {
       "title": "ランカーキラーガール",
@@ -825,8 +823,8 @@
       "published": "2018-11-20",
       "durationSeconds": 126,
       "provenance": "https://p.eagate.573.jp/game/kac/kac8th/music/index.html",
-      "status": "included",
-      "songId": "s-8d8b713c568d23b3"
+      "status": "excluded",
+      "reason": "ソロ曲は2017年以前の曲のみ。2018年の対象外曲の公式音源"
     },
     {
       "id": "eUM-js2Vtvk",

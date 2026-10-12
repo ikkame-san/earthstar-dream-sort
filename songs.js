@@ -2,62 +2,6 @@
 export const CATALOG_DATE = '2026-10-12';
 export const SONGS = [
   {
-    "id": "s-a79f6602f056fc2f",
-    "title": "廻る季節のゆく先に",
-    "date": "2019",
-    "release": "jubeat festo",
-    "sources": [
-      {
-        "title": "jubeat festo",
-        "url": "https://p.eagate.573.jp/game/bemani/fansite/p/music/201902/",
-        "date": "2019"
-      },
-      {
-        "title": "jubeat公式の楽曲・歌唱者一覧",
-        "url": "https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=17"
-      }
-    ],
-    "solo": true,
-    "soloArtist": "中島由貴",
-    "project": "jubeat",
-    "dateKind": "year",
-    "artworkSource": "https://p.eagate.573.jp/game/jubeat/common/jacket/2/id24758171.gif",
-    "artwork": "./jackets/e55b9750a0c36408.webp"
-  },
-  {
-    "id": "s-8d8b713c568d23b3",
-    "title": "Catch Our Fire!",
-    "date": "2018-11-29",
-    "release": "The 8th KAC / jubeat festo",
-    "sources": [
-      {
-        "title": "The 8th KAC / jubeat festo",
-        "url": "https://p.eagate.573.jp/game/kac/kac8th/music/index.html",
-        "date": "2018-11-29"
-      },
-      {
-        "title": "jubeat公式の楽曲・歌唱者一覧",
-        "url": "https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=5"
-      },
-      {
-        "title": "The 8th KAC共通課題曲「Catch Our Fire!」",
-        "url": "https://www.youtube.com/watch?v=6xMqwNaXZwg",
-        "date": "2018-11-20"
-      }
-    ],
-    "solo": true,
-    "soloArtist": "中島由貴",
-    "project": "jubeat",
-    "artworkSource": "https://p.eagate.573.jp/game/jubeat/common/jacket/1/id10429194.gif",
-    "artwork": "./jackets/2a5ea9ae8cb3ab8e.webp",
-    "video": {
-      "id": "6xMqwNaXZwg",
-      "title": "The 8th KAC共通課題曲「Catch Our Fire!」",
-      "type": "公式音源",
-      "source": "https://www.youtube.com/watch?v=6xMqwNaXZwg"
-    }
-  },
-  {
     "id": "s-6bc825495e5fc52c",
     "title": "Be a Hero!",
     "date": "2017-11-30",

@@ -18,7 +18,7 @@ test('all official release and video candidates are accounted for',()=>{
 });
 test('solo and unit filters are independent and default off',()=>{
  const base=filterCatalog(SONGS),solos=SONGS.filter(s=>s.solo),units=SONGS.filter(s=>s.unit);
- assert.equal(solos.length,14);assert.equal(units.length,2);
+ assert.equal(solos.length,12);assert.equal(units.length,2);
  assert.ok(base.every(s=>!s.solo&&!s.unit));
  assert.equal(filterCatalog(SONGS,{includeSolo:true}).length,base.length+solos.length);
  assert.equal(filterCatalog(SONGS,{includeUnits:true}).length,base.length+units.length);
@@ -61,10 +61,11 @@ test('video links use verified channels and do not substitute group audio for so
 });
 test('jubeat solo songs use KONAMI credits and are controlled by the solo checkbox',()=>{
  const tracks=SONGS.filter(s=>s.project==='jubeat');
- assert.deepEqual(tracks.map(s=>s.title).sort(),['Bonjour, The World!!','レゾンデートル、前線より','Be a Hero!','Catch Our Fire!','廻る季節のゆく先に'].sort());
+ assert.deepEqual(tracks.map(s=>s.title).sort(),['Bonjour, The World!!','レゾンデートル、前線より','Be a Hero!'].sort());
  for(const s of tracks){assert.equal(s.solo,true);assert.equal(s.soloArtist,'中島由貴');assert.ok(!filterCatalog(SONGS).includes(s));assert.ok(filterCatalog(SONGS,{includeSolo:true}).includes(s));assert.ok(s.sources.every(p=>/^https:\/\/(p\.eagate\.573\.jp|www\.youtube\.com)\//.test(p.url)));assert.ok(s.artwork);}
  assert.equal(SONGS.find(s=>s.title==='Bonjour, The World!!').date,'2017-02-09');
- assert.equal(SONGS.find(s=>s.title==='Catch Our Fire!').video.id,'6xMqwNaXZwg');
+ for(const title of ['Catch Our Fire!','廻る季節のゆく先に']){assert.ok(!SONGS.some(s=>s.title===title));assert.ok(audit.releases.some(r=>r.title===title&&r.status==='excluded'&&r.reason.includes('2017年以前')));}
+ assert.ok(SONGS.filter(s=>s.solo).every(s=>Number(s.date.slice(0,4))<=2017));
  assert.ok(!SONGS.some(s=>s.title==='ランカーキラーガール'));
  assert.equal(filterCatalog(SONGS).length,31);
 });
