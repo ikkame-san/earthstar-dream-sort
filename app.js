@@ -77,7 +77,7 @@ function videoButton(s){
   const query=encodeURIComponent(`${s.title} アース・スター ドリーム`);
   return `<a class="video-link" href="https://www.youtube.com/results?search_query=${query}" target="_blank" rel="noopener noreferrer" aria-label="${escape(s.title)} アース・スター ドリームをYouTubeで検索">YouTubeで検索 ↗</a>`;
 }
-function tile(s){return `<div class="song-item ${selection.has(s.id)?'selected':''}"><label class="song-tile ${selection.has(s.id)?'selected':''}"><input type="checkbox" data-song="${escape(s.id)}" ${selection.has(s.id)?'checked':''} aria-label="${escape(s.title)}">${jacket(s)}<span class="song-info"><span class="song-title">${escape(s.title)}</span><span class="song-meta">${s.custom?'追加した曲':`${yearLabel(s)} · ${escape(s.release)}${s.soloArtist&&!s.release.includes(s.soloArtist)?` · ${escape(s.soloArtist)} ソロ`:''}${s.date>today()?' · 発売予定':''}`}</span></span></label>${videoButton(s)}</div>`;}
+function tile(s){return `<div class="song-item ${selection.has(s.id)?'selected':''}"><label class="song-tile ${selection.has(s.id)?'selected':''}"><input type="checkbox" data-song="${escape(s.id)}" ${selection.has(s.id)?'checked':''} aria-label="${escape(s.title)}">${jacket(s)}<span class="song-info"><span class="song-title">${escape(s.title)}</span><span class="song-meta">${s.custom?'追加した曲':s.dateKind==='unknown'?yearLabel(s):`${yearLabel(s)} · ${escape(s.release)}${s.soloArtist&&!s.release.includes(s.soloArtist)?` · ${escape(s.soloArtist)} ソロ`:''}${s.date>today()?' · 発売予定':''}`}</span></span></label>${videoButton(s)}</div>`;}
 function selectedLimit(){return Math.min(preferredK,selection.size);}
 function setupHTML(){
   const available=availableSongs().length;
