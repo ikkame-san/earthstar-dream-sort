@@ -1,0 +1,1305 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "公式レーベルのCD曲目、Apple配信作品、公式YouTubeの公開アップロード一覧と動画説明欄を照合。全編視聴の記録ではない。",
+  "channels": [
+    {
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "source": "https://www.youtube.com/playlist?list=UUBoHPnjDHd2W6mY7lHCTzXA",
+      "pages": 6,
+      "complete": true,
+      "uploads": 592
+    },
+    {
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "source": "https://www.youtube.com/playlist?list=UUAOiIqfQKOsBROQG6K02FHg",
+      "pages": 1,
+      "complete": true,
+      "uploads": 36
+    },
+    {
+      "channelId": "UCB9oEEU5V77JfrfWSEZjRzg",
+      "source": "https://www.youtube.com/playlist?list=UUB9oEEU5V77JfrfWSEZjRzg",
+      "pages": 1,
+      "complete": true,
+      "uploads": 3
+    },
+    {
+      "channelId": "UCBcA0Y7seQ-vGCm94z7JjEA",
+      "source": "https://www.youtube.com/playlist?list=UUBcA0Y7seQ-vGCm94z7JjEA",
+      "pages": 1,
+      "complete": true,
+      "uploads": 4
+    },
+    {
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "source": "https://www.youtube.com/playlist?list=UUL0hUfknU0GngBXCsXKbY0A",
+      "pages": 1,
+      "complete": true,
+      "uploads": 6
+    }
+  ],
+  "uploadsChecked": 641,
+  "playerMetadataChecked": 73,
+  "releases": [
+    {
+      "title": "ブラッドタイプ☆ハートビート",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "included",
+      "songId": "s-d1e5d5e7d29758a9"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート (Instrumental)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(中島由貴 B型 バージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "included",
+      "songId": "s-fa094e87ceef5207"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(斎藤愛永 O型バージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "included",
+      "songId": "s-ffb8f167810990cb"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(谷尻まりあ A型バージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "included",
+      "songId": "s-86d81a41ae2f7a90"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(村北沙織 AB型バージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "included",
+      "songId": "s-f59754aa8330e65d"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "merged",
+      "songId": "s-d1e5d5e7d29758a9",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(中島由貴 B型 TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "merged",
+      "songId": "s-fa094e87ceef5207",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(斎藤愛永 O型 TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "merged",
+      "songId": "s-ffb8f167810990cb",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(谷尻まりあ A型 TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "merged",
+      "songId": "s-86d81a41ae2f7a90",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(村北沙織 AB型 TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5393/",
+      "status": "merged",
+      "songId": "s-f59754aa8330e65d",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe"
+    },
+    {
+      "title": "ハッピー∞エフェクト (Instrumental)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "ハッピー∞エフェクト(高尾奏音)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "included",
+      "songId": "s-d97a47ef89c97767"
+    },
+    {
+      "title": "ハッピー∞エフェクト(小出ひかる)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "included",
+      "songId": "s-9752a5a61ba30348"
+    },
+    {
+      "title": "ハッピー∞エフェクト(愛原ありさ)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "included",
+      "songId": "s-c18120e7d1ccb558"
+    },
+    {
+      "title": "ハッピー∞エフェクト(新井田いづみ)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "included",
+      "songId": "s-f7eb3e9fe46e36eb"
+    },
+    {
+      "title": "ハッピー∞エフェクト(曽我部英理)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "included",
+      "songId": "s-9f3c44db97ffe593"
+    },
+    {
+      "title": "ハッピー∞エフェクト(TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "merged",
+      "songId": "s-911f8d1c91273abe",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト(高尾奏音 TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "merged",
+      "songId": "s-d97a47ef89c97767",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト(小出ひかる TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "merged",
+      "songId": "s-9752a5a61ba30348",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト(愛原ありさ TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "merged",
+      "songId": "s-c18120e7d1ccb558",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト(新井田いづみ TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "merged",
+      "songId": "s-f7eb3e9fe46e36eb",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト(曽我部英理 TVバージョン)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5395/",
+      "status": "merged",
+      "songId": "s-9f3c44db97ffe593",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "走れ！うさかめ高校テニス部！！",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5351/",
+      "status": "included",
+      "songId": "s-7ac33bd444855d1b"
+    },
+    {
+      "title": "青春サーフDays",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5351/",
+      "status": "included",
+      "songId": "s-7c49c2d5676adb11"
+    },
+    {
+      "title": "青春サーフDays",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5351/",
+      "status": "included",
+      "songId": "s-7c49c2d5676adb11"
+    },
+    {
+      "title": "走れ!うさかめ高校テニス部!!(カラオケ)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5351/",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "青春サーフDays(カラオケ)",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5351/",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "ハッピー∞エフェクト",
+      "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC-%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88/966090978?i=966091271&uo=4",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe"
+    },
+    {
+      "title": "ハッピー∞エフェクト (Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC-%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88-instrumental/966090978?i=966091272&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "ハッピー∞エフェクト(TVバージョン)",
+      "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC-%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88-tv%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3/966090978?i=966091278&uo=4",
+      "status": "merged",
+      "songId": "s-911f8d1c91273abe",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート",
+      "source": "https://music.apple.com/jp/album/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%BF%E3%82%A4%E3%83%97-%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%BC%E3%83%88/966092742?i=966092755&uo=4",
+      "status": "included",
+      "songId": "s-d1e5d5e7d29758a9"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%BF%E3%82%A4%E3%83%97-%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%BC%E3%83%88-instrumental/966092742?i=966092756&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート(TVバージョン)",
+      "source": "https://music.apple.com/jp/album/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%BF%E3%82%A4%E3%83%97-%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%BC%E3%83%88-tv%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3/966092742?i=966092761&uo=4",
+      "status": "merged",
+      "songId": "s-d1e5d5e7d29758a9",
+      "reason": "TVサイズをフル版に統合"
+    },
+    {
+      "title": "とってもサファリ",
+      "source": "https://music.apple.com/jp/album/%E3%81%A8%E3%81%A3%E3%81%A6%E3%82%82%E3%82%B5%E3%83%95%E3%82%A1%E3%83%AA/1058792390?i=1058792400&uo=4",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "title": "Fan Fanfare!!!",
+      "source": "https://music.apple.com/jp/album/fan-fanfare/1058792390?i=1058792401&uo=4",
+      "status": "included",
+      "songId": "s-d986c573b1ed9a83"
+    },
+    {
+      "title": "とってもサファリ (Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E3%81%A8%E3%81%A3%E3%81%A6%E3%82%82%E3%82%B5%E3%83%95%E3%82%A1%E3%83%AA-instrumental/1058792390?i=1058792402&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "夢色トリドリパレード♫",
+      "source": "https://music.apple.com/jp/album/%E5%A4%A2%E8%89%B2%E3%83%88%E3%83%AA%E3%83%89%E3%83%AA%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89/1082269087?i=1082269088&uo=4",
+      "status": "included",
+      "songId": "s-b80da3162eab8da3"
+    },
+    {
+      "title": "ファッとして桃源郷",
+      "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%83%E3%81%A8%E3%81%97%E3%81%A6%E6%A1%83%E6%BA%90%E9%83%B7/1082269087?i=1082269089&uo=4",
+      "status": "included",
+      "songId": "s-ad6eef30748e3aaf"
+    },
+    {
+      "title": "夢色トリドリパレード♫(Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E5%A4%A2%E8%89%B2%E3%83%88%E3%83%AA%E3%83%89%E3%83%AA%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89-instrumental/1082269087?i=1082269090&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "Promise you",
+      "source": "https://music.apple.com/jp/album/promise-you/1113554406?i=1113554459&uo=4",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "title": "光る海のまんなかで",
+      "source": "https://music.apple.com/jp/album/%E5%85%89%E3%82%8B%E6%B5%B7%E3%81%AE%E3%81%BE%E3%82%93%E3%81%AA%E3%81%8B%E3%81%A7/1113554406?i=1113554460&uo=4",
+      "status": "included",
+      "songId": "s-7fe3136e8753ae2d"
+    },
+    {
+      "title": "Promise you(Instrumentall)",
+      "source": "https://music.apple.com/jp/album/promise-you-instrumentall/1113554406?i=1113554461&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "君色に染まる 〜アース・スター ドリームver.〜",
+      "source": "https://music.apple.com/jp/album/%E5%90%9B%E8%89%B2%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B-%E3%82%A2%E3%83%BC%E3%82%B9-%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0ver/1171730949?i=1171731135&uo=4",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "title": "細胞プロミネンス",
+      "source": "https://music.apple.com/jp/album/%E7%B4%B0%E8%83%9E%E3%83%97%E3%83%AD%E3%83%9F%E3%83%8D%E3%83%B3%E3%82%B9/1171730949?i=1171731136&uo=4",
+      "status": "included",
+      "songId": "s-fd062f39391276e4"
+    },
+    {
+      "title": "Fan Fanfare!!!(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/fan-fanfare-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201072&uo=4",
+      "status": "included",
+      "songId": "s-d986c573b1ed9a83"
+    },
+    {
+      "title": "ハッピー∞エフェクト(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC-%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201074&uo=4",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe"
+    },
+    {
+      "title": "ファッとして桃源郷(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%83%E3%81%A8%E3%81%97%E3%81%A6%E6%A1%83%E6%BA%90%E9%83%B7-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201075&uo=4",
+      "status": "included",
+      "songId": "s-ad6eef30748e3aaf"
+    },
+    {
+      "title": "スタッカートデイズ(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AB%E3%83%BC%E3%83%88%E3%83%87%E3%82%A4%E3%82%BA-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201076&uo=4",
+      "status": "included",
+      "songId": "s-1840c29578cb50ec"
+    },
+    {
+      "title": "TA・BE・GO・RO@ガール!(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/ta-be-go-ro-%E3%82%AC%E3%83%BC%E3%83%AB-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201077&uo=4",
+      "status": "included",
+      "songId": "s-f3518065e62fda04"
+    },
+    {
+      "title": "夢色トリドリパレード♫(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E5%A4%A2%E8%89%B2%E3%83%88%E3%83%AA%E3%83%89%E3%83%AA%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201081&uo=4",
+      "status": "included",
+      "songId": "s-b80da3162eab8da3"
+    },
+    {
+      "title": "光る海のまんなかで(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E5%85%89%E3%82%8B%E6%B5%B7%E3%81%AE%E3%81%BE%E3%82%93%E3%81%AA%E3%81%8B%E3%81%A7-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201183&uo=4",
+      "status": "included",
+      "songId": "s-7fe3136e8753ae2d"
+    },
+    {
+      "title": "Promise you(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/promise-you-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201184&uo=4",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "title": "ビューティフル・ドリーマー(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%83%AB-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201185&uo=4",
+      "status": "included",
+      "songId": "s-ccc88468b63c927a"
+    },
+    {
+      "title": "毎日コハルビヨリ(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E6%AF%8E%E6%97%A5%E3%82%B3%E3%83%8F%E3%83%AB%E3%83%93%E3%83%A8%E3%83%AA-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201187&uo=4",
+      "status": "included",
+      "songId": "s-d4ef95296d2687db"
+    },
+    {
+      "title": "君色に染まる 〜アース・スター ドリームver.〜(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E5%90%9B%E8%89%B2%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B-%E3%82%A2%E3%83%BC%E3%82%B9-%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0ver-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201188&uo=4",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "title": "Qunka!(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/qunka-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201194&uo=4",
+      "status": "included",
+      "songId": "s-141a97f2a3429d18"
+    },
+    {
+      "title": "今宵フェスティバブル(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E4%BB%8A%E5%AE%B5%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%96%E3%83%AB-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201195&uo=4",
+      "status": "included",
+      "songId": "s-0574b046e7dffe33"
+    },
+    {
+      "title": "メニメニマニマニ(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%8B%E3%83%A1%E3%83%8B%E3%83%9E%E3%83%8B%E3%83%9E%E3%83%8B-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201196&uo=4",
+      "status": "included",
+      "songId": "s-29e0bd204316a3aa"
+    },
+    {
+      "title": "とってもサファリ(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E3%81%A8%E3%81%A3%E3%81%A6%E3%82%82%E3%82%B5%E3%83%95%E3%82%A1%E3%83%AA-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201197&uo=4",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "title": "Diamond Soul(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/diamond-soul-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201198&uo=4",
+      "status": "included",
+      "songId": "s-c74f3a31a74fa320"
+    },
+    {
+      "title": "細胞プロミネンス(2周年記念ライブinディファ有明)",
+      "source": "https://music.apple.com/jp/album/%E7%B4%B0%E8%83%9E%E3%83%97%E3%83%AD%E3%83%9F%E3%83%8D%E3%83%B3%E3%82%B9-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201199&uo=4",
+      "status": "included",
+      "songId": "s-fd062f39391276e4"
+    },
+    {
+      "title": "開運!招福!炎天歌",
+      "source": "https://music.apple.com/jp/album/%E9%96%8B%E9%81%8B-%E6%8B%9B%E7%A6%8F-%E7%82%8E%E5%A4%A9%E6%AD%8C/1269957211?i=1269957677&uo=4",
+      "status": "included",
+      "songId": "s-b21f2ea44046de8f"
+    },
+    {
+      "title": "アース・スター ドリーム 神曲メドレー",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%BC%E3%82%B9-%E3%82%B9%E3%82%BF%E3%83%BC-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0-%E7%A5%9E%E6%9B%B2%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/1269957211?i=1269957678&uo=4",
+      "status": "excluded",
+      "reason": "既収録曲をつないだメドレー"
+    },
+    {
+      "title": "開運!招福!炎天歌 (Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E9%96%8B%E9%81%8B-%E6%8B%9B%E7%A6%8F-%E7%82%8E%E5%A4%A9%E6%AD%8C-instrumental/1269957211?i=1269957679&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "スマイル♡インビテーション",
+      "source": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB-%E3%82%A4%E3%83%B3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/1295621301?i=1295621309&uo=4",
+      "status": "included",
+      "songId": "s-ab636ecbb0e643a1"
+    },
+    {
+      "title": "千本桜 ピアノ超絶技巧ひかのんver.",
+      "source": "https://music.apple.com/jp/album/%E5%8D%83%E6%9C%AC%E6%A1%9C-%E3%83%94%E3%82%A2%E3%83%8E%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E3%81%B2%E3%81%8B%E3%81%AE%E3%82%93ver/1295621301?i=1295621310&uo=4",
+      "status": "included",
+      "songId": "s-5ea43091b0dbdd4e"
+    },
+    {
+      "title": "スマイル♡インビテーション (Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB-%E3%82%A4%E3%83%B3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-instrumental/1295621301?i=1295621311&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "千本桜 ピアノ超絶技巧ひかのんver.(Instrumental)",
+      "source": "https://music.apple.com/jp/album/%E5%8D%83%E6%9C%AC%E6%A1%9C-%E3%83%94%E3%82%A2%E3%83%8E%E8%B6%85%E7%B5%B6%E6%8A%80%E5%B7%A7%E3%81%B2%E3%81%8B%E3%81%AE%E3%82%93ver-instrumental/1295621301?i=1295621312&uo=4",
+      "status": "excluded",
+      "reason": "SE・インスト・カラオケ"
+    },
+    {
+      "title": "開運!招福!炎天歌",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5341/",
+      "status": "included",
+      "songId": "s-b21f2ea44046de8f"
+    },
+    {
+      "title": "スマイル♡インビテーション",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5343/",
+      "status": "included",
+      "songId": "s-ab636ecbb0e643a1"
+    },
+    {
+      "title": "千本桜 ピアノ超絶技巧ひかのんver.",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5343/",
+      "status": "included",
+      "songId": "s-5ea43091b0dbdd4e"
+    },
+    {
+      "title": "君色に染まる 〜アース・スター ドリームver.〜",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5345/",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "title": "細胞プロミネンス",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5345/",
+      "status": "included",
+      "songId": "s-fd062f39391276e4"
+    },
+    {
+      "title": "Promise you",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5349/",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "title": "光る海のまんなかで",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5349/",
+      "status": "included",
+      "songId": "s-7fe3136e8753ae2d"
+    },
+    {
+      "title": "夢色トリドリパレード♫",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5355/",
+      "status": "included",
+      "songId": "s-b80da3162eab8da3"
+    },
+    {
+      "title": "ファッとして桃源郷",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5355/",
+      "status": "included",
+      "songId": "s-ad6eef30748e3aaf"
+    },
+    {
+      "title": "とってもサファリ",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5365/",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "title": "Fan Fanfare!!!",
+      "source": "https://www.earthstar.co.jp/service/detail/item-5365/",
+      "status": "included",
+      "songId": "s-d986c573b1ed9a83"
+    },
+    {
+      "title": "Take you to My PARTY!!",
+      "source": "https://music.apple.com/jp/song/1031845954",
+      "reason": "マリ子（CV:伊藤美来）の曲。ESD名義の発売音源を確認できず、ライブでのカバーのみのため対象外",
+      "status": "excluded"
+    },
+    {
+      "title": "Dreamin’×Dreamin’!!",
+      "source": "https://news.mixi.jp/view_news.pl?id=4729075&media_id=95",
+      "reason": "ミリオンドール曲のライブカバー。ESD名義の発売音源を確認できないため対象外",
+      "status": "excluded"
+    }
+  ],
+  "videos": [
+    {
+      "id": "_cEv1exIGi8",
+      "title": "【ひかのん】特番「スマイル☆ティーパーティー」よっかめ",
+      "source": "https://www.youtube.com/watch?v=_cEv1exIGi8",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2018-02-21",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "kt4g9U-xrc4",
+      "title": "【ひかのん】特番「スマイル☆ティーパーティー」卒業回",
+      "source": "https://www.youtube.com/watch?v=kt4g9U-xrc4",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2018-03-20",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "hy_HH9l3YvA",
+      "title": "【ひかのん】特番「スマイル☆ティーパーティー」みっかめ",
+      "source": "https://www.youtube.com/watch?v=hy_HH9l3YvA",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-12-30",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "_Z95qYK-AMg",
+      "title": "アース・スター ドリーム結成三周年記念LIVE2017年12月9日(土)開催！さらに結成二周年記念LIVE Blu-rayも発売！",
+      "source": "https://www.youtube.com/watch?v=_Z95qYK-AMg",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-09-08",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "AOBgdfCLrBE",
+      "title": "『開運！招福！炎天歌』 ＭＶ ダンスver　（アース・スター ドリーム）",
+      "source": "https://www.youtube.com/watch?v=AOBgdfCLrBE",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-07-13",
+      "status": "included",
+      "songId": "s-b21f2ea44046de8f"
+    },
+    {
+      "id": "xMCBDXTBHZs",
+      "title": "【ひかのん】特番「スマイル☆ティーパーティー」ふつかめ",
+      "source": "https://www.youtube.com/watch?v=xMCBDXTBHZs",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-08-04",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "wDVX2bEcJtk",
+      "title": "TVアニメ「無責任ギャラクシー☆タイラー」主題歌MV「スマイル♡インビテーション」song by ひかのん（小出ひかる＆高尾奏音）",
+      "source": "https://www.youtube.com/watch?v=wDVX2bEcJtk",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-07-12",
+      "status": "included",
+      "songId": "s-ab636ecbb0e643a1"
+    },
+    {
+      "id": "4J6NyW-kx6s",
+      "title": "ひかのんの「スマイル☆ティーパーティー」",
+      "source": "https://www.youtube.com/watch?v=4J6NyW-kx6s",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-05-03",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "xik5jrwR6A4",
+      "title": "【ドラマCD紹介】アース・スター ドリーム",
+      "source": "https://www.youtube.com/watch?v=xik5jrwR6A4",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2017-02-03",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "Vto38LHc5Zk",
+      "title": "【公式メドレー】アース・スター ドリーム予習動画【12/10ディファLIVE】",
+      "source": "https://www.youtube.com/watch?v=Vto38LHc5Zk",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-12-06",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "VZxiEqAzq_A",
+      "title": "【アース・スター ドリーム】12/10(土)結成2周年ライブに向けて",
+      "source": "https://www.youtube.com/watch?v=VZxiEqAzq_A",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-11-13",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "I8QZ9YSdN2U",
+      "title": "【公式MV】Promise you／アース・スター ドリーム",
+      "source": "https://www.youtube.com/watch?v=I8QZ9YSdN2U",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-10-12",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "id": "QIb-FcbChTo",
+      "title": "【公式MV】走れ！うさかめ高校テニス部！！／アース・スター ドリーム",
+      "source": "https://www.youtube.com/watch?v=QIb-FcbChTo",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-10-11",
+      "status": "included",
+      "songId": "s-7ac33bd444855d1b"
+    },
+    {
+      "id": "InrwpyXNtio",
+      "title": "【公式MVダンスver.】君色に染まる ～アース・スター ドリームver.～／アース・スター ドリーム",
+      "source": "https://www.youtube.com/watch?v=InrwpyXNtio",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-10-05",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "id": "fp8gZ69bPmk",
+      "title": "【公式MV】君色に染まる ～アース・スター ドリームver.～／アース・スター ドリーム",
+      "source": "https://www.youtube.com/watch?v=fp8gZ69bPmk",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-10-05",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "id": "Yj3A6okoAHI",
+      "title": "6月11日(土)「うさかめ」原作コミックス3巻発売！",
+      "source": "https://www.youtube.com/watch?v=Yj3A6okoAHI",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-06-05",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "h5wka8Cz8TM",
+      "title": "【5/25発売】走れ！うさかめ高校テニス部！！／うさかめ高校テニス部",
+      "source": "https://www.youtube.com/watch?v=h5wka8Cz8TM",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-04-14",
+      "status": "included",
+      "songId": "s-7ac33bd444855d1b"
+    },
+    {
+      "id": "Lko5DWgzMGQ",
+      "title": "うさかめ番宣 CM：TOKYO MX",
+      "source": "https://www.youtube.com/watch?v=Lko5DWgzMGQ",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-04-14",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "1XfZBq718dY",
+      "title": "うさかめ番宣 放送中　サンテレビ",
+      "source": "https://www.youtube.com/watch?v=1XfZBq718dY",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-04-14",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "KlGV0E13y9w",
+      "title": "2016年4月期放送！TVアニメ「うさかめ」番宣CM",
+      "source": "https://www.youtube.com/watch?v=KlGV0E13y9w",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-04-06",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "J0yhgF-yrZM",
+      "title": "うさかめ原作コミックス2巻　発売！",
+      "source": "https://www.youtube.com/watch?v=J0yhgF-yrZM",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-03-18",
+      "status": "excluded",
+      "reason": "告知・トーク番組・ドラマ紹介・複数曲の予習メドレー・アニメ番宣。曲目は説明欄も照合"
+    },
+    {
+      "id": "ZdJhHb-CB70",
+      "title": "【公式MV】夢色トリドリパレード♫／アース・スター ドリーム",
+      "source": "https://www.youtube.com/watch?v=ZdJhHb-CB70",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2016-01-10",
+      "status": "included",
+      "songId": "s-b80da3162eab8da3"
+    },
+    {
+      "id": "PxyhL28aGSA",
+      "title": "【公式PV②】アース・スター ドリーム「とってもサファリ」",
+      "source": "https://www.youtube.com/watch?v=PxyhL28aGSA",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2015-11-16",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "id": "X-548Xzodd0",
+      "title": "【公式PV】アース・スター ドリーム「とってもサファリ」",
+      "source": "https://www.youtube.com/watch?v=X-548Xzodd0",
+      "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
+      "author": "【公式】アース・スター エンターテイメント",
+      "published": "2015-10-30",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "id": "6kIlZmZXBVM",
+      "title": "細胞プロミネンス",
+      "source": "https://www.youtube.com/watch?v=6kIlZmZXBVM",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-fd062f39391276e4"
+    },
+    {
+      "id": "RzsAjGAroIE",
+      "title": "君色に染まる 〜アース・スター ドリームver.〜",
+      "source": "https://www.youtube.com/watch?v=RzsAjGAroIE",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "id": "lnEPXzwt160",
+      "title": "開運!招福!炎天歌",
+      "source": "https://www.youtube.com/watch?v=lnEPXzwt160",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-b21f2ea44046de8f"
+    },
+    {
+      "id": "C6CFIRgy--8",
+      "title": "開運!招福!炎天歌 (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=C6CFIRgy--8",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "eQLLyHFjXog",
+      "title": "アース・スター ドリーム 神曲メドレー",
+      "source": "https://www.youtube.com/watch?v=eQLLyHFjXog",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "YPVzcCpbcN8",
+      "title": "とってもサファリ",
+      "source": "https://www.youtube.com/watch?v=YPVzcCpbcN8",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "id": "5ZTaidp9jVc",
+      "title": "とってもサファリ (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=5ZTaidp9jVc",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "TtVhz3ienFE",
+      "title": "Fan Fanfare!!!",
+      "source": "https://www.youtube.com/watch?v=TtVhz3ienFE",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-d986c573b1ed9a83"
+    },
+    {
+      "id": "Ezp161z50c0",
+      "title": "ブラッドタイプ☆ハートビート (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=Ezp161z50c0",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "qATcH8wwxxM",
+      "title": "ブラッドタイプ☆ハートビート (TVバージョン)",
+      "source": "https://www.youtube.com/watch?v=qATcH8wwxxM",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-d1e5d5e7d29758a9"
+    },
+    {
+      "id": "KoPHu_SrDj0",
+      "title": "ブラッドタイプ☆ハートビート",
+      "source": "https://www.youtube.com/watch?v=KoPHu_SrDj0",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-d1e5d5e7d29758a9"
+    },
+    {
+      "id": "IJtINnnpM-A",
+      "title": "夢色トリドリパレード♫",
+      "source": "https://www.youtube.com/watch?v=IJtINnnpM-A",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-b80da3162eab8da3"
+    },
+    {
+      "id": "kh-Vt2h8fqo",
+      "title": "TA・BE・GO・RO@ガール!",
+      "source": "https://www.youtube.com/watch?v=kh-Vt2h8fqo",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-f3518065e62fda04"
+    },
+    {
+      "id": "Wg5puCexPy4",
+      "title": "Promise you",
+      "source": "https://www.youtube.com/watch?v=Wg5puCexPy4",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "id": "iClbDl6DDg0",
+      "title": "とってもサファリ",
+      "source": "https://www.youtube.com/watch?v=iClbDl6DDg0",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "id": "latEmqLlNgA",
+      "title": "毎日コハルビヨリ",
+      "source": "https://www.youtube.com/watch?v=latEmqLlNgA",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-d4ef95296d2687db"
+    },
+    {
+      "id": "45gj57HTIy0",
+      "title": "ファッとして桃源郷",
+      "source": "https://www.youtube.com/watch?v=45gj57HTIy0",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-ad6eef30748e3aaf"
+    },
+    {
+      "id": "af5HTqslSC0",
+      "title": "Qunka!",
+      "source": "https://www.youtube.com/watch?v=af5HTqslSC0",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-141a97f2a3429d18"
+    },
+    {
+      "id": "qeVTG4sRYu4",
+      "title": "ハッピー∞エフェクト",
+      "source": "https://www.youtube.com/watch?v=qeVTG4sRYu4",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe"
+    },
+    {
+      "id": "xBfEXaueFVM",
+      "title": "今宵フェスティバブル",
+      "source": "https://www.youtube.com/watch?v=xBfEXaueFVM",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-0574b046e7dffe33"
+    },
+    {
+      "id": "-9gScKKwnXQ",
+      "title": "君色に染まる 〜アース・スター ドリームver.〜",
+      "source": "https://www.youtube.com/watch?v=-9gScKKwnXQ",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-46e5e8ddfb9408aa"
+    },
+    {
+      "id": "0r0g2jCO14w",
+      "title": "光る海のまんなかで",
+      "source": "https://www.youtube.com/watch?v=0r0g2jCO14w",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-7fe3136e8753ae2d"
+    },
+    {
+      "id": "SPTA1nnoz4U",
+      "title": "細胞プロミネンス",
+      "source": "https://www.youtube.com/watch?v=SPTA1nnoz4U",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-fd062f39391276e4"
+    },
+    {
+      "id": "TpoPKT6UWiE",
+      "title": "とってもサファリ",
+      "source": "https://www.youtube.com/watch?v=TpoPKT6UWiE",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1"
+    },
+    {
+      "id": "XW7Rcwqj4LQ",
+      "title": "Diamond Soul",
+      "source": "https://www.youtube.com/watch?v=XW7Rcwqj4LQ",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-c74f3a31a74fa320"
+    },
+    {
+      "id": "dAuv-CQ998I",
+      "title": "Promise you",
+      "source": "https://www.youtube.com/watch?v=dAuv-CQ998I",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "id": "e_d4FP0jvbk",
+      "title": "メニメニマニマニ",
+      "source": "https://www.youtube.com/watch?v=e_d4FP0jvbk",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-29e0bd204316a3aa"
+    },
+    {
+      "id": "gNR6j4qlzg0",
+      "title": "ビューティフル・ドリーマー",
+      "source": "https://www.youtube.com/watch?v=gNR6j4qlzg0",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-ccc88468b63c927a"
+    },
+    {
+      "id": "qEtOb_vjqSQ",
+      "title": "スタッカートデイズ",
+      "source": "https://www.youtube.com/watch?v=qEtOb_vjqSQ",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-1840c29578cb50ec"
+    },
+    {
+      "id": "vJ6Owl8jhrU",
+      "title": "Fan Fanfare!!!",
+      "source": "https://www.youtube.com/watch?v=vJ6Owl8jhrU",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-d986c573b1ed9a83"
+    },
+    {
+      "id": "WQfV6nQi6qk",
+      "title": "Promise you (Instrumentall)",
+      "source": "https://www.youtube.com/watch?v=WQfV6nQi6qk",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-09-24",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "IG3QhwMC7hI",
+      "title": "光る海のまんなかで",
+      "source": "https://www.youtube.com/watch?v=IG3QhwMC7hI",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-7fe3136e8753ae2d"
+    },
+    {
+      "id": "t8cCJ6uRyNw",
+      "title": "Promise you",
+      "source": "https://www.youtube.com/watch?v=t8cCJ6uRyNw",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86"
+    },
+    {
+      "id": "0wN-7uYJUsM",
+      "title": "ファッとして桃源郷",
+      "source": "https://www.youtube.com/watch?v=0wN-7uYJUsM",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-ad6eef30748e3aaf"
+    },
+    {
+      "id": "Ny3MThJYoBA",
+      "title": "夢色トリドリパレード♫ (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=Ny3MThJYoBA",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-09-24",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "KTyGGKfq1Ck",
+      "title": "夢色トリドリパレード♫",
+      "source": "https://www.youtube.com/watch?v=KTyGGKfq1Ck",
+      "channelId": "UCAOiIqfQKOsBROQG6K02FHg",
+      "author": "アース・スター ドリーム - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-b80da3162eab8da3"
+    },
+    {
+      "id": "qPk6expmOvU",
+      "title": "ハッピー∞エフェクト (TVバージョン)",
+      "source": "https://www.youtube.com/watch?v=qPk6expmOvU",
+      "channelId": "UCB9oEEU5V77JfrfWSEZjRzg",
+      "author": "アース・スター ドリーム(高尾奏音・小出ひかる・愛原ありさ・新井田いづみ・曽我部英理) - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe"
+    },
+    {
+      "id": "Uts-NUnAJDw",
+      "title": "ハッピー∞エフェクト",
+      "source": "https://www.youtube.com/watch?v=Uts-NUnAJDw",
+      "channelId": "UCB9oEEU5V77JfrfWSEZjRzg",
+      "author": "アース・スター ドリーム(高尾奏音・小出ひかる・愛原ありさ・新井田いづみ・曽我部英理) - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe"
+    },
+    {
+      "id": "LyVS4RWJBdw",
+      "title": "ハッピー∞エフェクト (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=LyVS4RWJBdw",
+      "channelId": "UCB9oEEU5V77JfrfWSEZjRzg",
+      "author": "アース・スター ドリーム(高尾奏音・小出ひかる・愛原ありさ・新井田いづみ・曽我部英理) - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "dRmRwMbj1E4",
+      "title": "スマイル♡インビテーション (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=dRmRwMbj1E4",
+      "channelId": "UCBcA0Y7seQ-vGCm94z7JjEA",
+      "author": "ひかのん(小出ひかる&高尾奏音) - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "DPexlQmhYOI",
+      "title": "千本桜 ピアノ超絶技巧ひかのんver. (Instrumental)",
+      "source": "https://www.youtube.com/watch?v=DPexlQmhYOI",
+      "channelId": "UCBcA0Y7seQ-vGCm94z7JjEA",
+      "author": "ひかのん(小出ひかる&高尾奏音) - Topic",
+      "published": "2018-10-15",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "UP9UZ8AuCKk",
+      "title": "千本桜 ピアノ超絶技巧ひかのんver.",
+      "source": "https://www.youtube.com/watch?v=UP9UZ8AuCKk",
+      "channelId": "UCBcA0Y7seQ-vGCm94z7JjEA",
+      "author": "ひかのん(小出ひかる&高尾奏音) - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-5ea43091b0dbdd4e"
+    },
+    {
+      "id": "nHZ35R4N5TE",
+      "title": "スマイル♡インビテーション",
+      "source": "https://www.youtube.com/watch?v=nHZ35R4N5TE",
+      "channelId": "UCBcA0Y7seQ-vGCm94z7JjEA",
+      "author": "ひかのん(小出ひかる&高尾奏音) - Topic",
+      "published": "2018-10-15",
+      "status": "included",
+      "songId": "s-ab636ecbb0e643a1"
+    },
+    {
+      "id": "PnftJs2Y29Q",
+      "title": "青春サーフDays (カラオケ)",
+      "source": "https://www.youtube.com/watch?v=PnftJs2Y29Q",
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "author": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV)) - Topic",
+      "published": "2018-09-24",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "xsbmqlWXYek",
+      "title": "青春サーフDays feat.古平たすく (CV:高尾奏音) ・馬場みやこ...",
+      "source": "https://www.youtube.com/watch?v=xsbmqlWXYek",
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "author": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV)) - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-7c49c2d5676adb11"
+    },
+    {
+      "id": "hiUok6Gid3E",
+      "title": "青春サーフDays",
+      "source": "https://www.youtube.com/watch?v=hiUok6Gid3E",
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "author": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV)) - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-7c49c2d5676adb11"
+    },
+    {
+      "id": "2N7vd2QRvGc",
+      "title": "叭喇撃突ケ響",
+      "source": "https://www.youtube.com/watch?v=2N7vd2QRvGc",
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "author": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV)) - Topic",
+      "published": "2020-09-17",
+      "status": "excluded",
+      "reason": "Topic一覧に混在しているが、説明欄の歌唱者は西 絹代（CV:瀬戸麻沙美）。ESD・うさかめとは別作品"
+    },
+    {
+      "id": "XP3RJR1iDMg",
+      "title": "走れ!うさかめ高校テニス部!! (カラオケ)",
+      "source": "https://www.youtube.com/watch?v=XP3RJR1iDMg",
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "author": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV)) - Topic",
+      "published": "2018-09-24",
+      "status": "excluded",
+      "reason": "インスト・カラオケまたは既収録曲をつないだメドレー"
+    },
+    {
+      "id": "qi1hidld-3Q",
+      "title": "走れ!うさかめ高校テニス部!!",
+      "source": "https://www.youtube.com/watch?v=qi1hidld-3Q",
+      "channelId": "UCL0hUfknU0GngBXCsXKbY0A",
+      "author": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV)) - Topic",
+      "published": "2018-09-24",
+      "status": "included",
+      "songId": "s-7ac33bd444855d1b"
+    }
+  ],
+  "pending": [],
+  "partialAppleReleases": [
+    {
+      "id": 966090978,
+      "title": "ハッピー∞エフェクト",
+      "apiTracks": 3,
+      "physicalTracks": 13,
+      "resolvedBy": "公式レーベルの全収録曲目で補完"
+    },
+    {
+      "id": 966092742,
+      "title": "ブラッドタイプ☆ハートビート",
+      "apiTracks": 3,
+      "physicalTracks": 11,
+      "resolvedBy": "公式レーベルの全収録曲目で補完"
+    }
+  ]
+}
