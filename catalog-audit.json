@@ -1,6 +1,18 @@
 {
   "checkedAt": "2026-10-12",
-  "scope": "公式CD・配信・公式YouTubeに加え、ユーザーがESDの披露曲と確認したライブ曲一覧を収録。音源未確認のカバーも対象。動画全編視聴の記録ではない。",
+  "jubeat": {
+    "pagesChecked": 19,
+    "source": "https://p.eagate.573.jp/game/jubeat/beyond/music/original.html",
+    "songs": [
+      "Bonjour, The World!!",
+      "レゾンデートル、前線より",
+      "Be a Hero!",
+      "Catch Our Fire!",
+      "廻る季節のゆく先に"
+    ],
+    "videoMetadataChecked": 2
+  },
+  "scope": "公式CD・配信・公式YouTubeに加え、ユーザーがESDの披露曲と確認したライブ曲一覧を収録。音源未確認のカバーも対象。中島由貴のjubeatソロもKONAMI公式で照合。動画全編視聴の記録ではない。",
   "repertoire": {
     "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
     "headings": 31,
@@ -56,7 +68,7 @@
     }
   ],
   "uploadsChecked": 641,
-  "playerMetadataChecked": 73,
+  "playerMetadataChecked": 75,
   "releases": [
     {
       "title": "ブラッドタイプ☆ハートビート",
@@ -763,9 +775,71 @@
       "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
       "status": "included",
       "songId": "s-f7a3a758158771fb"
+    },
+    {
+      "title": "Bonjour, The World!!",
+      "source": "https://p.eagate.573.jp/game/bemani/fansite/p/news/detail.html?post_id=11041880",
+      "status": "included",
+      "songId": "s-52d6b5a19a2fc113"
+    },
+    {
+      "title": "レゾンデートル、前線より",
+      "source": "https://p.eagate.573.jp/game/bemani/fansite/p/music/201707/",
+      "status": "included",
+      "songId": "s-743b08ac75e20ff5"
+    },
+    {
+      "title": "Be a Hero!",
+      "source": "https://p.eagate.573.jp/game/kac/kac7th/music/index.html",
+      "status": "included",
+      "songId": "s-6bc825495e5fc52c"
+    },
+    {
+      "title": "Catch Our Fire!",
+      "source": "https://p.eagate.573.jp/game/kac/kac8th/music/index.html",
+      "status": "included",
+      "songId": "s-8d8b713c568d23b3"
+    },
+    {
+      "title": "廻る季節のゆく先に",
+      "source": "https://p.eagate.573.jp/game/bemani/fansite/p/music/201902/",
+      "status": "included",
+      "songId": "s-a79f6602f056fc2f"
+    },
+    {
+      "title": "ランカーキラーガール",
+      "artist": "中島由貴 × いちか",
+      "source": "https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=18",
+      "artwork": "https://p.eagate.573.jp/game/jubeat/common/jacket/3/id35816923.gif",
+      "status": "excluded",
+      "reason": "いちかとのデュエット。今回の中島由貴ソロ曲の追加対象外"
     }
   ],
   "videos": [
+    {
+      "id": "6xMqwNaXZwg",
+      "title": "The 8th KAC共通課題曲「Catch Our Fire!」",
+      "channelId": "UCWSPqhLRvqjC-vLYA5_n4LQ",
+      "author": "KONAMI公式",
+      "source": "https://www.youtube.com/watch?v=6xMqwNaXZwg",
+      "published": "2018-11-20",
+      "durationSeconds": 126,
+      "provenance": "https://p.eagate.573.jp/game/kac/kac8th/music/index.html",
+      "status": "included",
+      "songId": "s-8d8b713c568d23b3"
+    },
+    {
+      "id": "eUM-js2Vtvk",
+      "title": "「Catch Our Fire!」歌唱アーティスト中島由貴さんからのメッセージ",
+      "channelId": "UCWSPqhLRvqjC-vLYA5_n4LQ",
+      "author": "KONAMI公式",
+      "source": "https://www.youtube.com/watch?v=eUM-js2Vtvk",
+      "published": "2018-11-20",
+      "durationSeconds": 96,
+      "provenance": "https://p.eagate.573.jp/game/kac/kac8th/music/index.html",
+      "status": "excluded",
+      "reason": "歌唱者からのメッセージ動画。楽曲本編ではない"
+    },
     {
       "id": "_cEv1exIGi8",
       "title": "【ひかのん】特番「スマイル☆ティーパーティー」よっかめ",

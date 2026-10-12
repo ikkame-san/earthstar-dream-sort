@@ -18,7 +18,7 @@ test('all official release and video candidates are accounted for',()=>{
 });
 test('solo and unit filters are independent and default off',()=>{
  const base=filterCatalog(SONGS),solos=SONGS.filter(s=>s.solo),units=SONGS.filter(s=>s.unit);
- assert.equal(solos.length,9);assert.equal(units.length,2);
+ assert.equal(solos.length,14);assert.equal(units.length,2);
  assert.ok(base.every(s=>!s.solo&&!s.unit));
  assert.equal(filterCatalog(SONGS,{includeSolo:true}).length,base.length+solos.length);
  assert.equal(filterCatalog(SONGS,{includeUnits:true}).length,base.length+units.length);
@@ -52,10 +52,19 @@ test('video links use verified channels and do not substitute group audio for so
  const channels=new Set(audit.channels.map(c=>c.channelId));
  for(const song of SONGS.filter(s=>s.video)){
   const row=audit.videos.find(v=>v.id===song.video.id);
-  assert.ok(row&&channels.has(row.channelId));assert.equal(row.songId,song.id);
+  assert.ok(row&&(channels.has(row.channelId)||(row.channelId==='UCWSPqhLRvqjC-vLYA5_n4LQ'&&row.provenance==='https://p.eagate.573.jp/game/kac/kac8th/music/index.html')));assert.equal(row.songId,song.id);
  }
- assert.ok(SONGS.filter(s=>s.solo).every(s=>!s.video));
+ assert.ok(SONGS.filter(s=>s.solo&&s.project!=='jubeat').every(s=>!s.video));
  assert.equal(SONGS.find(s=>s.title.startsWith('君色に染まる')).video.id,'fp8gZ69bPmk');
  assert.equal(audit.videos.find(v=>v.id==='2N7vd2QRvGc').status,'excluded');
  assert.ok(SONGS.every(s=>s.title!=='叭喇撃突ケ響'));
+});
+test('jubeat solo songs use KONAMI credits and are controlled by the solo checkbox',()=>{
+ const tracks=SONGS.filter(s=>s.project==='jubeat');
+ assert.deepEqual(tracks.map(s=>s.title).sort(),['Bonjour, The World!!','レゾンデートル、前線より','Be a Hero!','Catch Our Fire!','廻る季節のゆく先に'].sort());
+ for(const s of tracks){assert.equal(s.solo,true);assert.equal(s.soloArtist,'中島由貴');assert.ok(!filterCatalog(SONGS).includes(s));assert.ok(filterCatalog(SONGS,{includeSolo:true}).includes(s));assert.ok(s.sources.every(p=>/^https:\/\/(p\.eagate\.573\.jp|www\.youtube\.com)\//.test(p.url)));assert.ok(s.artwork);}
+ assert.equal(SONGS.find(s=>s.title==='Bonjour, The World!!').date,'2017-02-09');
+ assert.equal(SONGS.find(s=>s.title==='Catch Our Fire!').video.id,'6xMqwNaXZwg');
+ assert.ok(!SONGS.some(s=>s.title==='ランカーキラーガール'));
+ assert.equal(filterCatalog(SONGS).length,31);
 });
