@@ -33,7 +33,20 @@ test('earliest ESD release dates are retained; TV/live versions do not duplicate
  assert.equal(SONGS.find(s=>s.title==='メニメニマニマニ').date,'2017-06-14');
  assert.equal(SONGS.filter(s=>s.title==='青春サーフDays').length,1);
  assert.ok(SONGS.every(s=>!/instrumental|TVバージョン|メドレー|2周年記念ライブ/i.test(s.title)));
- assert.ok(SONGS.every(s=>!/^Take you to My PARTY|^Dreamin/.test(s.title)));
+});
+test('every heading in the user-confirmed live repertoire is represented, including unreleased covers',()=>{
+ const rows=audit.releases.filter(r=>r.source===audit.repertoire.source);
+ assert.equal(rows.length,31);assert.equal(audit.repertoire.addedSongIds.length,10);
+ assert.ok(rows.every(r=>['included','merged'].includes(r.status)));
+ const added=SONGS.filter(s=>audit.repertoire.addedSongIds.includes(s.id));
+ assert.equal(added.length,10);
+ for(const song of added){
+  assert.ok(filterCatalog(SONGS).includes(song));assert.equal(song.dateKind,'unknown');assert.equal(song.date,'');
+  assert.equal(song.artwork,undefined);assert.equal(song.video,undefined);
+ }
+ for(const title of ['Take you to My PARTY!!','Dreamin’×Dreamin’!!','Eternal Stage ～アース・スター ドリームver.～','ツッパリくんvs関取マン','ばいたる☆エクササイズ','夏色プレゼント','Sweet berry, Strawberry','girl meets DEADLINE','毎日☆まんがーる!','cocoiro rainbow'])assert.ok(added.some(s=>s.title===title),title);
+ assert.equal(SONGS.filter(s=>s.title==='Diamond Soul').length,1);
+ assert.equal(SONGS.filter(s=>s.title==='スタッカートデイズ').length,1);
 });
 test('video links use verified channels and do not substitute group audio for solos',()=>{
  const channels=new Set(audit.channels.map(c=>c.channelId));

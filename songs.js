@@ -89,6 +89,10 @@ export const SONGS = [
         "date": "2017-08-16"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "『開運！招福！炎天歌』 ＭＶ ダンスver　（アース・スター ドリーム）",
         "url": "https://www.youtube.com/watch?v=AOBgdfCLrBE",
         "date": "2017-07-13"
@@ -118,6 +122,10 @@ export const SONGS = [
         "title": "アース・スター ドリーム 2周年記念ライブinディファ有明",
         "url": "https://music.apple.com/jp/album/diamond-soul-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201198&uo=4",
         "date": "2017-06-14"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "Diamond Soul",
@@ -151,6 +159,10 @@ export const SONGS = [
         "date": "2017-06-14"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "Qunka!",
         "url": "https://www.youtube.com/watch?v=af5HTqslSC0",
         "date": "2018-10-15"
@@ -182,6 +194,10 @@ export const SONGS = [
         "date": "2017-06-14"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "TA・BE・GO・RO@ガール!",
         "url": "https://www.youtube.com/watch?v=kh-Vt2h8fqo",
         "date": "2018-10-15"
@@ -206,6 +222,10 @@ export const SONGS = [
         "title": "アース・スター ドリーム 2周年記念ライブinディファ有明",
         "url": "https://music.apple.com/jp/album/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AB%E3%83%BC%E3%83%88%E3%83%87%E3%82%A4%E3%82%BA-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201076&uo=4",
         "date": "2017-06-14"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "スタッカートデイズ",
@@ -239,6 +259,10 @@ export const SONGS = [
         "date": "2017-06-14"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "ビューティフル・ドリーマー",
         "url": "https://www.youtube.com/watch?v=gNR6j4qlzg0",
         "date": "2018-10-15"
@@ -263,6 +287,10 @@ export const SONGS = [
         "title": "アース・スター ドリーム 2周年記念ライブinディファ有明",
         "url": "https://music.apple.com/jp/album/%E3%83%A1%E3%83%8B%E3%83%A1%E3%83%8B%E3%83%9E%E3%83%8B%E3%83%9E%E3%83%8B-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201196&uo=4",
         "date": "2017-06-14"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "メニメニマニマニ",
@@ -296,6 +324,10 @@ export const SONGS = [
         "date": "2017-06-14"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "今宵フェスティバブル",
         "url": "https://www.youtube.com/watch?v=xBfEXaueFVM",
         "date": "2018-10-15"
@@ -325,6 +357,10 @@ export const SONGS = [
         "title": "アース・スター ドリーム 2周年記念ライブinディファ有明",
         "url": "https://music.apple.com/jp/album/%E6%AF%8E%E6%97%A5%E3%82%B3%E3%83%8F%E3%83%AB%E3%83%93%E3%83%A8%E3%83%AA-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201187&uo=4",
         "date": "2017-06-14"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "毎日コハルビヨリ",
@@ -366,6 +402,10 @@ export const SONGS = [
         "title": "君色に染まる ～アース・スター ドリームver.～",
         "url": "https://www.earthstar.co.jp/service/detail/item-5345/",
         "date": "2016-11-09"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "【公式MVダンスver.】君色に染まる ～アース・スター ドリームver.～／アース・スター ドリーム",
@@ -419,6 +459,10 @@ export const SONGS = [
         "date": "2016-11-09"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "細胞プロミネンス",
         "url": "https://www.youtube.com/watch?v=6kIlZmZXBVM",
         "date": "2018-10-15"
@@ -463,6 +507,10 @@ export const SONGS = [
         "title": "Promise you",
         "url": "https://www.earthstar.co.jp/service/detail/item-5349/",
         "date": "2016-05-25"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "【公式MV】Promise you／アース・スター ドリーム",
@@ -526,6 +574,10 @@ export const SONGS = [
         "date": "2016-05-25"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "光る海のまんなかで",
         "url": "https://www.youtube.com/watch?v=0r0g2jCO14w",
         "date": "2018-10-15"
@@ -567,6 +619,10 @@ export const SONGS = [
         "date": "2016-05-25"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "青春サーフDays feat.古平たすく (CV:高尾奏音) ・馬場みやこ...",
         "url": "https://www.youtube.com/watch?v=xsbmqlWXYek",
         "date": "2018-09-24"
@@ -599,6 +655,10 @@ export const SONGS = [
         "title": "走れ！うさかめ高校テニス部！！（うさかめ高校テニス部）",
         "url": "https://www.earthstar.co.jp/service/detail/item-5351/",
         "date": "2016-05-25"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "【公式MV】走れ！うさかめ高校テニス部！！／アース・スター ドリーム",
@@ -650,6 +710,10 @@ export const SONGS = [
         "date": "2016-02-10"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "ファッとして桃源郷",
         "url": "https://www.youtube.com/watch?v=45gj57HTIy0",
         "date": "2018-10-15"
@@ -699,6 +763,10 @@ export const SONGS = [
         "title": "夢色トリドリパレード♫",
         "url": "https://www.earthstar.co.jp/service/detail/item-5355/",
         "date": "2016-02-10"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "【公式MV】夢色トリドリパレード♫／アース・スター ドリーム",
@@ -757,6 +825,10 @@ export const SONGS = [
         "date": "2015-11-25"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "Fan Fanfare!!!",
         "url": "https://www.youtube.com/watch?v=TtVhz3ienFE",
         "date": "2018-10-15"
@@ -806,6 +878,10 @@ export const SONGS = [
         "title": "とってもサファリ",
         "url": "https://www.earthstar.co.jp/service/detail/item-5365/",
         "date": "2015-11-25"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "【公式PV②】アース・スター ドリーム「とってもサファリ」",
@@ -872,6 +948,10 @@ export const SONGS = [
         "title": "アース・スター ドリーム 2周年記念ライブinディファ有明",
         "url": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC-%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88-2%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%A9%E3%82%A4%E3%83%96in%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E6%9C%89%E6%98%8E/1246200973?i=1246201074&uo=4",
         "date": "2017-06-14"
+      },
+      {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
       },
       {
         "title": "ハッピー∞エフェクト",
@@ -1005,6 +1085,10 @@ export const SONGS = [
         "date": "2015-02-25"
       },
       {
+        "title": "ESDライブ披露曲一覧（ユーザー確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/"
+      },
+      {
         "title": "ブラッドタイプ☆ハートビート (TVバージョン)",
         "url": "https://www.youtube.com/watch?v=qATcH8wwxxM",
         "date": "2018-10-15"
@@ -1091,5 +1175,155 @@ export const SONGS = [
     "soloArtist": "中島由貴",
     "artworkSource": "https://www.earthstar.co.jp/cms_q2LcJHjS/wp-content/uploads/2024/05/ESER013.jpg",
     "artwork": "./jackets/c3f4788bad15a6d2.webp"
+  },
+  {
+    "id": "s-f7a3a758158771fb",
+    "title": "cocoiro rainbow",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-a5756aabfe9d8350",
+    "title": "Dreamin’×Dreamin’!!",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-e4cbb4ee864e6401",
+    "title": "Eternal Stage ～アース・スター ドリームver.～",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-cbdf119f57490557",
+    "title": "girl meets DEADLINE",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-c0ff13d3af8ef990",
+    "title": "Sweet berry, Strawberry",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-11d5ab86e8e1ded8",
+    "title": "Take you to My PARTY!!",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-381a3173d78e8ccd",
+    "title": "ツッパリくんvs関取マン",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-524f8ac2165f7d06",
+    "title": "ばいたる☆エクササイズ",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-edc8c749c7be60cf",
+    "title": "夏色プレゼント",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
+  },
+  {
+    "id": "s-6efc4cfa060a9953",
+    "title": "毎日☆まんがーる!",
+    "date": "",
+    "release": "ライブ披露曲（音源未確認）",
+    "sources": [
+      {
+        "title": "ライブ披露曲（音源未確認）",
+        "url": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+        "date": ""
+      }
+    ],
+    "dateKind": "unknown",
+    "catalogNote": "ユーザー指定のESD披露曲一覧に基づく。ESDでの披露年・発売音源は未確認"
   }
 ];

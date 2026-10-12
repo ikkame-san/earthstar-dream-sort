@@ -1,6 +1,23 @@
 {
   "checkedAt": "2026-10-12",
-  "scope": "公式レーベルのCD曲目、Apple配信作品、公式YouTubeの公開アップロード一覧と動画説明欄を照合。全編視聴の記録ではない。",
+  "scope": "公式CD・配信・公式YouTubeに加え、ユーザーがESDの披露曲と確認したライブ曲一覧を収録。音源未確認のカバーも対象。動画全編視聴の記録ではない。",
+  "repertoire": {
+    "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+    "headings": 31,
+    "addedSongIds": [
+      "s-e4cbb4ee864e6401",
+      "s-11d5ab86e8e1ded8",
+      "s-a5756aabfe9d8350",
+      "s-381a3173d78e8ccd",
+      "s-524f8ac2165f7d06",
+      "s-edc8c749c7be60cf",
+      "s-c0ff13d3af8ef990",
+      "s-cbdf119f57490557",
+      "s-6efc4cfa060a9953",
+      "s-f7a3a758158771fb"
+    ],
+    "confirmedBy": "ユーザー指定の披露曲一覧"
+  },
   "channels": [
     {
       "channelId": "UCBoHPnjDHd2W6mY7lHCTzXA",
@@ -541,16 +558,211 @@
       "songId": "s-d986c573b1ed9a83"
     },
     {
+      "title": "とってもサファリ",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-dd3e72b7ff99adb1",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "開運！招福！炎天歌",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-b21f2ea44046de8f",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "細胞プロミネンス",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-fd062f39391276e4",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "ファッとして桃源郷",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-ad6eef30748e3aaf",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "君色に染まる～アース・スタードリームver.～",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-46e5e8ddfb9408aa",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "Qunka!",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-141a97f2a3429d18",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "青春サーフdays",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-7c49c2d5676adb11",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "diamond soul～アース・スタードリームver.～",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-c74f3a31a74fa320",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "Eternal Stage ～アース・スター ドリームver.～",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-e4cbb4ee864e6401"
+    },
+    {
+      "title": "Fan Fanfare!!!",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-d986c573b1ed9a83",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "ハッピー∞エフェクト",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-911f8d1c91273abe",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
       "title": "Take you to My PARTY!!",
-      "source": "https://music.apple.com/jp/song/1031845954",
-      "reason": "マリ子（CV:伊藤美来）の曲。ESD名義の発売音源を確認できず、ライブでのカバーのみのため対象外",
-      "status": "excluded"
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-11d5ab86e8e1ded8"
+    },
+    {
+      "title": "今宵フェスティバブル",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-0574b046e7dffe33",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "光る海のまんなかで",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-7fe3136e8753ae2d",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "走れ！うさかめ高校テニス部！！",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-7ac33bd444855d1b",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "Promise you",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-a18ee6409bad1c86",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
     },
     {
       "title": "Dreamin’×Dreamin’!!",
-      "source": "https://news.mixi.jp/view_news.pl?id=4729075&media_id=95",
-      "reason": "ミリオンドール曲のライブカバー。ESD名義の発売音源を確認できないため対象外",
-      "status": "excluded"
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-a5756aabfe9d8350"
+    },
+    {
+      "title": "メニメニマニマニ",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-29e0bd204316a3aa",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "ブラッドタイプ☆ハートビート",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-d1e5d5e7d29758a9",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "夢色トリドリパレード",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-b80da3162eab8da3",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "ビューティフル・ドリーマー",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-ccc88468b63c927a",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "ツッパリくんvs関取マン",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-381a3173d78e8ccd"
+    },
+    {
+      "title": "ばいたる☆エクササイズ",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-524f8ac2165f7d06"
+    },
+    {
+      "title": "夏色プレゼント",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-edc8c749c7be60cf"
+    },
+    {
+      "title": "スタッカート・デイズ",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-1840c29578cb50ec",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "Sweet berry, Strawberry",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-c0ff13d3af8ef990"
+    },
+    {
+      "title": "girl meets DEADLINE",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-cbdf119f57490557"
+    },
+    {
+      "title": "TA・BE・GO・RO@ガール！",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "merged",
+      "songId": "s-f3518065e62fda04",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "毎日☆まんがーる!",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-6efc4cfa060a9953"
+    },
+    {
+      "title": "毎日コハルビヨリ",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-d4ef95296d2687db",
+      "reason": "ユーザー確認のESD披露曲。表記ゆれは既存曲へ統合"
+    },
+    {
+      "title": "cocoiro rainbow",
+      "source": "https://xn--nzwp98desh.com/post/2018/02/06/70/",
+      "status": "included",
+      "songId": "s-f7a3a758158771fb"
     }
   ],
   "videos": [
