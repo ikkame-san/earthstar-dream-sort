@@ -633,9 +633,8 @@ export const SONGS = [
         "date": "2018-09-24"
       }
     ],
-    "unit": true,
     "unitArtist": "うさかめ高校テニス部",
-    "catalogNote": "4人版と全メンバー参加のfeat.版を同曲に統合",
+    "catalogNote": "うさかめ曲は通常表示。4人版と全メンバー参加のfeat.版を同曲に統合",
     "artworkSource": "https://www.earthstar.co.jp/cms_q2LcJHjS/wp-content/uploads/2024/05/ESER034.jpg",
     "artwork": "./jackets/31711493af2e1fd1.webp",
     "video": {
@@ -676,9 +675,8 @@ export const SONGS = [
         "date": "2018-09-24"
       }
     ],
-    "unit": true,
     "unitArtist": "うさかめ高校テニス部",
-    "catalogNote": "4人版と全メンバー参加のfeat.版を同曲に統合",
+    "catalogNote": "うさかめ曲は通常表示。4人版と全メンバー参加のfeat.版を同曲に統合",
     "artworkSource": "https://www.earthstar.co.jp/cms_q2LcJHjS/wp-content/uploads/2024/05/ESER034.jpg",
     "artwork": "./jackets/31711493af2e1fd1.webp",
     "video": {

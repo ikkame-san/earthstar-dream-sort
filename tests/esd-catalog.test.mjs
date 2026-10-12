@@ -18,13 +18,13 @@ test('all official release and video candidates are accounted for',()=>{
 });
 test('solo and unit filters are independent and default off',()=>{
  const base=filterCatalog(SONGS),solos=SONGS.filter(s=>s.solo),units=SONGS.filter(s=>s.unit);
- assert.equal(solos.length,9);assert.equal(units.length,4);
+ assert.equal(solos.length,9);assert.equal(units.length,2);
  assert.ok(base.every(s=>!s.solo&&!s.unit));
  assert.equal(filterCatalog(SONGS,{includeSolo:true}).length,base.length+solos.length);
  assert.equal(filterCatalog(SONGS,{includeUnits:true}).length,base.length+units.length);
  assert.equal(filterCatalog(SONGS,{includeSolo:true,includeUnits:true}).length,SONGS.length);
  for(const title of ['ブラッドタイプ☆ハートビート','ハッピー∞エフェクト','Diamond Soul','Fan Fanfare!!!'])assert.ok(base.some(s=>s.title===title));
- assert.ok(units.some(s=>s.title==='青春サーフDays'));
+ for(const title of ['青春サーフDays','走れ！うさかめ高校テニス部！！'])assert.ok(base.some(s=>s.title===title),title+' should be visible by default');
  assert.ok(units.some(s=>s.title==='スマイル♡インビテーション'));
 });
 test('earliest ESD release dates are retained; TV/live versions do not duplicate songs',()=>{
